@@ -20,7 +20,6 @@ for (let i = 0; i < inputs.length; i++) {
                 currentHeight = Math.max(currentHeight, 50);
                 this.style.height = currentHeight + 'px';
             }
-   
         });
     }
 }
